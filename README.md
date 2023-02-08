@@ -7,3 +7,6 @@
 ### Password : password
 
 ## SQL query can be taken from the SQL_script file : user.sql
+
+## Resister Page
+### Will not allow duplicate user name
