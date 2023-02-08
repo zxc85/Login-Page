@@ -1,0 +1,5 @@
+com/mvc/controller/LoginController.class
+com/mvc/controller/RegisterController.class
+com/mvc/dao/LoginDao.class
+com/mvc/bean/User.class
+com/mvc/dao/RegisterDao.class
